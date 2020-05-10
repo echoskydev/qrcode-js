@@ -1,9 +1,9 @@
-# qrcode-js
-QR Code scanner
-Test script
+# qrcode-scanner-php
 
 Reference:
---
-- http://www.lazarsoft.info/
-- https://qrcodereader.ephespa ge.de/
-- https://developer.tizen.org/development/articles/barcode-generator-and-scanner
+
+http://www.lazarsoft.info/
+
+https://qrcodereader.ephespage.de/
+
+https://developer.tizen.org/development/articles/barcode-generator-and-scanner
